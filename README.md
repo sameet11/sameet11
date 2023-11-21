@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **DevOps: 🛠️🔄🌐**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sameet11](https://github.com/sameet11)
+- 👨‍💻 All of my projects are available at [https://github.com/sameet11?tab=repositories](https://github.com)
 
-- 📝 I regularly write articles on [https://medium.com/@sameetsabu1](https://medium.com/@sameetsabu1)
+- 📝 I regularly write articles on [https://medium.com/@sameetsabu1](https://medium.com)
 
 - 💬 Ask me about **Next.js: ⚡️🌐🚀 MERN (MongoDB, Express.js, React, Node.js): 🟩🔵⚛️🟢 T3 Stack: 🛠️🔺🔲🔷**
 
